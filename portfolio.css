@@ -33,9 +33,10 @@ nav a{
 .btn-primary{
     background-color: #FD6E0A;
     color: white;
-    font-size: 20px;
+    font-size: 25px;
     font-weight: 700;
     border-radius: 5px;
+    padding: 5px 10px;
     border: 0;
 }
 
@@ -107,3 +108,41 @@ nav a{
     justify-content: space-around;
     padding-bottom: 50px;
 }
+
+.what-i-do{
+    max-width: 1140px;
+   margin: 20px auto;
+}
+.what-i-do h3{
+    text-align: center;
+}
+.what-i-do p{
+    text-align: center;
+    padding: 30px 150px;
+}
+.skill-contain{
+    display: flex;
+    max-width: 1140px;
+    margin: 30px auto;
+}
+
+.skill{
+    margin: 30px 15px;
+    box-shadow: 15px 15px 5px whitesmoke;
+    padding: 30px;
+}
+
+.resume h1{
+text-align: center;
+margin: 30px 0px;
+}
+.resume-content{
+    display: flex;
+    gap: 30px;
+    max-width: 1140px;
+    margin: 30px auto;
+}
+.btn-center{
+    text-align: center;
+}
+
