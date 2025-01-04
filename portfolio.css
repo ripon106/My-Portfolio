@@ -84,3 +84,26 @@ nav a{
 .contact{
     margin-left: 15px;
 }
+
+.about-container{
+    max-width: 1140px;
+    background-color: #FFF8F3;
+   margin: 20px auto;
+}
+
+.about-title{
+    text-align: center;
+    padding-top: 50px;
+   
+}
+
+.about-description{
+    text-align: center;
+    padding: 0px 50px;
+}
+
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 50px;
+}
